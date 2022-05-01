@@ -1,0 +1,15 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+li.odd {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+li.even {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
